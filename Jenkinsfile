@@ -26,6 +26,5 @@ pipeline {
                 sh "mvn install" 
           }
          }
-    
-    }
+    }
 }
